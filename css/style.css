@@ -1,0 +1,155 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    margin: auto;
+    background-color: rgb(216, 216, 216);
+    width: 400px;
+    height: 800px;
+}
+
+#barra_top{
+    width: 400px;
+    height: 3px;
+    background-color: #f6db7b;
+    margin-bottom: 10px;
+
+}
+#quadrado{
+    width: 25px;
+    height: 25px;
+    background-color: rgba(246, 219, 123,0.8);
+    border-radius: 5px;
+    margin-top: 40px;
+    margin-left: 35px;
+}
+#inscrevase {
+    font-family: 'roboto', 'sans-serif';
+    font-size: 36px;
+    margin-left: 45px;
+    margin-top: -25px;
+}
+
+#form_inscrever{
+    width: 340px;
+    height: 650px;
+    font-size: 16px;
+    border-radius: 5px;
+    font-family: 'roboto','sans-serif';
+    background-color: white;
+    font-weight: 600px;
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+#label{
+    font-family: 'roboto', 'sans-serif';
+    font-size: 18px;
+    font-weight: 600px;
+    padding: 5px;
+    margin-left: 15px;
+}
+
+#input{
+    width: 300px;
+    height: 35px;
+    border-radius: 5px;
+    outline: 1px solid rgb(247, 220, 38, 0.8);
+    margin-left: 20px;
+    border: none;
+    margin-bottom: 15px;
+    padding: 5px;
+    
+}
+
+#olho{
+    margin-bottom: 37px;
+    margin-left: 300px ;
+    margin-top: -40px;
+    opacity: 0.4;
+    
+}
+
+#label_num{
+    font-family: 'roboto', 'sans-serif';
+    font-size: 18px;
+    font-weight: 500px;
+    margin-left: 120px;
+    padding: 5px;
+    padding-top: 10px;
+}
+
+#input_cep{
+    border-radius: 5px;
+    width: 120px;
+    height: 35px;
+    border: none;
+    outline: 1px solid rgb(247, 220, 38, 0.8);
+    margin-left: 20px;
+    margin-bottom: 10px;
+    padding-left: 5px;
+
+}
+
+#input_num{
+    width: 135px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    outline: 1px solid #f6db7b;
+    margin-left: 35px;
+}
+
+#select_cidade{
+    font-family: 'roboto', 'sans-serif';
+    border-radius: 5px;
+    width: 300px;
+    height: 35px;
+    border: none;
+    outline: 1px solid #f6db7b;
+    padding-left: 5px;
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+
+#input_checkbox{
+    width: 20px;
+    height: 20px;
+    margin-left: 20px;
+}
+
+#p_checkbox{
+    font-family: 'roboto', 'sans-serif';
+    font-size: 15px;
+    margin-left: 45px;
+    margin-top: -23px;
+
+}
+
+#botao_final{
+    width: 180px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    background-color: #f6db7b;
+    color: ;
+    border: none;
+    padding: 5px;
+    margin-left: 20px;
+    margin-top: 20px;
+
+
+
+
+}
+
+
