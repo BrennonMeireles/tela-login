@@ -16,8 +16,8 @@ Abra o arquivo index.html em seu navegador da web.
 Você verá a tela de login onde pode inserir seu nome de usuário e senha (não funcional, apenas demonstrativo).
 
 ## Tecnologias Utilizadas
-HTML5: Utilizado para estruturar a página da web e criar os elementos do formulário.
-CSS3: Utilizado para estilizar e posicionar os elementos do formulário, assim como para criar o layout responsivo.
+- HTML5: Utilizado para estruturar a página da web e criar os elementos do formulário.
+- CSS3: Utilizado para estilizar e posicionar os elementos do formulário, assim como para criar o layout responsivo.
 
 ## Contribuição
 Sinta-se à vontade para contribuir com este projeto! Você pode adicionar novas funcionalidades, melhorar a estilização, corrigir problemas ou otimizar o código existente.
