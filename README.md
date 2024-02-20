@@ -6,9 +6,9 @@ Bem-vindo ao repositório da tela de login desenvolvida no SENAI! Este projeto f
 Neste projeto, implementamos uma simples tela de login utilizando HTML e CSS. A tela consiste em campos para inserção de nome de usuário e senha, juntamente com botões para enviar os dados e realizar o login.
 
 ## Funcionalidades
-Formulário de Login: Criamos um formulário com campos para nome de usuário e senha.
-Estilização com CSS: Utilizamos CSS para estilizar o formulário, adicionando cores, fontes e espaçamentos para uma melhor apresentação.
-Responsividade: Implementamos um design responsivo para garantir uma boa experiência de usuário em diferentes dispositivos e tamanhos de tela.
+- Formulário de Login: Criamos um formulário com campos para nome de usuário e senha.
+- Estilização com CSS: Utilizamos CSS para estilizar o formulário, adicionando cores, fontes e espaçamentos para uma melhor apresentação.
+- Responsividade: Implementamos um design responsivo para garantir uma boa experiência de usuário em diferentes dispositivos e tamanhos de tela.
 
 ## Como Utilizar
 Clone este repositório em sua máquina local.
