@@ -1,7 +1,4 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-
-
 
 *{
     margin: 0;
@@ -22,6 +19,7 @@ main{
     margin-bottom: 10px;
 
 }
+
 #quadrado{
     width: 25px;
     height: 25px;
@@ -30,6 +28,7 @@ main{
     margin-top: 40px;
     margin-left: 35px;
 }
+
 #inscrevase {
     font-family: 'roboto', 'sans-serif';
     font-size: 36px;
@@ -67,7 +66,6 @@ main{
     border: none;
     margin-bottom: 15px;
     padding: 5px;
-    
 }
 
 #olho{
@@ -75,7 +73,6 @@ main{
     margin-left: 300px ;
     margin-top: -40px;
     opacity: 0.4;
-    
 }
 
 #label_num{
@@ -96,7 +93,6 @@ main{
     margin-left: 20px;
     margin-bottom: 10px;
     padding-left: 5px;
-
 }
 
 #input_num{
@@ -131,7 +127,6 @@ main{
     font-size: 15px;
     margin-left: 45px;
     margin-top: -23px;
-
 }
 
 #botao_final{
@@ -141,15 +136,8 @@ main{
     border-radius: 5px;
     font-size: 20px;
     background-color: #f6db7b;
-    color: ;
     border: none;
     padding: 5px;
     margin-left: 20px;
     margin-top: 20px;
-
-
-
-
 }
-
-
