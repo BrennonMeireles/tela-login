@@ -68,10 +68,10 @@ main{
     padding: 5px;
 }
 
-#olho{
-    margin-bottom: 37px;
-    margin-left: 300px ;
-    margin-top: -40px;
+#olho {
+    position: relative;
+    top: -45px;
+    left: 300px;
     opacity: 0.4;
 }
 
