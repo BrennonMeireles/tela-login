@@ -25,7 +25,7 @@ Você verá a tela de login onde pode inserir seu nome de usuário e senha (não
 - HTML5: Utilizado para estruturar a página da web e criar os elementos do formulário.
 - CSS3: Utilizado para estilizar e posicionar os elementos do formulário, assim como para criar o layout responsivo.
 
-## Contribuição 📱
+## Contribuição ℹ️
 Sinta-se à vontade para contribuir com este projeto! Você pode adicionar novas funcionalidades, melhorar a estilização, corrigir problemas ou otimizar o código existente.
 
 Obrigado por visitar este repositório e por seu interesse em aprender mais sobre desenvolvimento web com HTML e CSS! Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato.
