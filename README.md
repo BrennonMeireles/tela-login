@@ -5,6 +5,10 @@ Bem-vindo ao repositório da tela de login desenvolvida no SENAI! Este projeto f
 ## Descrição
 Neste projeto, implementamos uma simples tela de login utilizando HTML e CSS. A tela consiste em campos para inserção de nome de usuário e senha, juntamente com botões para enviar os dados e realizar o login.
 
+<div align="center">
+  <img src="https://github.com/BrennonMeireles/tela-login/assets/141636246/c67e5e92-916f-4737-97b2-aca27fe2164c" alt="image" width="600px">
+</div>
+
 ## Funcionalidades
 - Formulário de Login: Criamos um formulário com campos para nome de usuário e senha.
 - Estilização com CSS: Utilizamos CSS para estilizar o formulário, adicionando cores, fontes e espaçamentos para uma melhor apresentação.
